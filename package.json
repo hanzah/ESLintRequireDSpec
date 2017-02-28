@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-require-spec-attribute-plugin",
+  "version": "1.0.0",
+  "description": "Require spec attribute on component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "author": "Hani",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.16.1"
+  }
+}
